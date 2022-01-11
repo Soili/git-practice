@@ -19,4 +19,4 @@ Office: CON 426
 
 ## Practice Edits for branching
 
-[Kelly "Rethinking Settler and Native"](Kelly-Rethinking Settler and Native.pdf)
+[Kelly "Rethinking Settler and Native"](https://github.com/Soili/git-practice/blob/f8944554a6f13251b548573417272b19f597bbf6/Kelly-Rethinking%20Settler%20and%20Native.pdf)
