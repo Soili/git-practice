@@ -10,13 +10,13 @@ Office: CON 426
 
 ### Week One
 
--Day, Ikyo. *Alien Capital* Pages 1-49
+- Day, Ikyo. *Alien Capital* Pages 1-49
 
 ### Week Two
 
--Shemak, April. *Asylum Speakers*
--Garland, Judy. "Somewhere Over the Rainbow"
+- Shemak, April. *Asylum Speakers*
+- Garland, Judy. "Somewhere Over the Rainbow"
 
 ## Practice Edits for branching
 
-[Racial Naturalization - Carbado](Racial Naturalization - Carbado.pdf)
+[Kelly "Rethinking Settler and Native"](Kelly-Rethinking Settler and Native.pdf)
