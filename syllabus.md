@@ -18,3 +18,5 @@ Office: CON 426
 -Garland, Judy. "Somewhere Over the Rainbow"
 
 ## Practice Edits for branching
+
+[Racial Naturalization - Carbado](Racial Naturalization - Carbado.pdf)
